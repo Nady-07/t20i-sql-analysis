@@ -1,4 +1,4 @@
-# 🏏 T20I 2024 — SQL Server Analysis
+# 🏏 T20I SQL Server Analysis
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Questions](https://img.shields.io/badge/Questions-10-blue)
