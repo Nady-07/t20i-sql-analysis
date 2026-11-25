@@ -1,9 +1,11 @@
-# 🏏 T20I SQL Server Analysis
+# T20I Cricket — SQL Server Analysis
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
-![Questions](https://img.shields.io/badge/Questions-10-blue)
-![Matches](https://img.shields.io/badge/Matches-122-green)
-![Season](https://img.shields.io/badge/Season-2024-orange)
+![SQL Server](https://img.shields.io/badge/SQL_SERVER-T--SQL-0B0B0B?style=flat-square&labelColor=1D1D1D)
+![Questions](https://img.shields.io/badge/QUESTIONS-10-1D1D1D?style=flat-square&labelColor=0B0B0B)
+![Matches](https://img.shields.io/badge/MATCHES-122_(2024)-3D3D3D?style=flat-square&labelColor=1D1D1D)
+![License](https://img.shields.io/badge/LICENSE-MIT-3D3D3D?style=flat-square&labelColor=1D1D1D)
+
+[Live Portfolio ↗](https://nady-07.github.io/portfolio/#portfolio) · [LinkedIn](https://www.linkedin.com/in/mohamed-alnady-52b87123b)
 
 Ten business-style questions answered with T-SQL on **122 men's T20 international matches played in 2024** (11 Jan – 16 Nov), including the T20 World Cup in the USA & West Indies.
 
@@ -186,3 +188,14 @@ sqlcmd -S localhost -E -d league -i sql02_analysis_queries.sql
 - Build a Power BI dashboard on this table (team form, venue performance, monthly volume).
 - Add toss and player data to study batting-first versus chasing advantage.
 - Extend the dataset to other years to compare trends over time.
+
+---
+
+## License
+
+Licensed under the [MIT License](./LICENSE).
+
+---
+
+**Mohamed Al Nady** — *Data & Business Intelligence Analyst*  
+[Live Portfolio ↗](https://nady-07.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/mohamed-alnady-52b87123b) · [Email](mailto:mohamednady0@outlook.com) · [GitHub](https://github.com/Nady-07)
